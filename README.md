@@ -3,7 +3,7 @@
 - 📫 How to reach me ajit62062@gmail.com
 - 👀 I’m interested in doing Data Analytics/Science projects.
 - 🌱 I’m currently learning SQL, Python, Web Scrapping, Data Analysis with python, Power Bi, Machine Learning, Numpy, Pandas.
-- 🔗 LinkedIn Profile: [linkedin.com/in/ajit-kumar1998]
+
 
  SKILLS
 - Data Analysis
